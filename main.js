@@ -19,7 +19,7 @@ function generate()
             break;
     }
 
-    document.getElementById("demo").innerHTML = result;
+    document.getElementById("message").innerHTML = result;
 }
 
 function jokes()
